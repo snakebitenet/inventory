@@ -1,0 +1,9 @@
+
+td.service{vertical-align: baseline; padding-right: 10px  }
+.service_bold{font-size:12px;color: red;	font-family : Arial, Helvetica, sans-serif;font-weight:bold  }
+.service_p{font-size:12px;color: black;	font-family : Arial, Helvetica, sans-serif;font-weight:normal }
+.service_b{font-size:14px;color: black;	font-family : Arial, Helvetica, sans-serif;font-weight:normal }
+.service_h{font-size:14px;color: black;	font-family : Arial, Helvetica, sans-serif;font-weight:bold; padding-top: 40px; padding-bottom: 15px; padding-left: 40px}
+.service_contact_info{font-size:14px;color: white;font-family : Arial, Helvetica, sans-serif;font-weight:bold; padding-top: 10px; padding-bottom: 10px; padding-left: 0px}
+.service_price{font-size:14px;color: blue;font-family : Arial, Helvetica, sans-serif;font-weight:bold }
+.phone{font-size:16px;color: black;font-family : sans-serif; Arial, Helvetica;font-weight:bold }
